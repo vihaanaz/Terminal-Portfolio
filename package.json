@@ -15,7 +15,10 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+<<<<<<< HEAD
     "git": "^0.1.5",
+=======
+>>>>>>> a22a5d5eecf2e572f313f84ed8878ea56704c8cb
     "lodash": "^4.17.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -33,7 +36,11 @@
     "@typescript-eslint/eslint-plugin": "^5.40.0",
     "@typescript-eslint/parser": "^5.40.0",
     "@vitejs/plugin-react": "^5.0.0",
+<<<<<<< HEAD
     "@vitest/coverage-v8": "^3.2.4",
+=======
+    "@vitest/coverage-c8": "^0.33.0",
+>>>>>>> a22a5d5eecf2e572f313f84ed8878ea56704c8cb
     "eslint": "^8.25.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-import-resolver-typescript": "^3.5.1",
